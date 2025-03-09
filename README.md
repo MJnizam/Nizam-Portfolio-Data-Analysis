@@ -8,6 +8,7 @@ The dataset consists of two sheets:
 1. **Dashboard** – Summarized revenue data by month.
 2. **Transactions** – Detailed sales transactions including product types, store locations, and timestamps.
 ![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/salary.PNG)
+
 This dataset is ideal for practicing data visualization, trend analysis, and predictive analytics. Future improvements may include interactive dashboards and automated reports.
 ## [Salary Analysis using Python](https://github.com/MJnizam/Portfolio-Project/blob/main/Salary_Analysis.ipynb)
 ### Overview

@@ -22,6 +22,19 @@ This project explores salary trends across different industries, job roles, and 
 ![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/salary.PNG)
 
 This dataset is useful for HR analytics, career planning, and salary benchmarking. Future improvements may include real-time salary prediction models and interactive dashboards.
+ ## [Stock Market Data Analysis using Python](https://github.com/MJnizam/Portfolio-Project/blob/main/stock_analysis.ipynb)
+ ### Overview
+ #### [source](https://github.com/MJnizam/Portfolio-Project/blob/main/WMT_1970-10-01_2025-01-31.csv)
+ This project focuses on analyzing historical stock market data to uncover trends, patterns, and insights. By leveraging Python and key data analysis libraries, the study explores stock price movements, trading volume trends, and technical indicators such as moving averages.
+### Key Insights
+1. The closing price trend showcases the overall market movement over time.
+2. The moving average analysis highlights long-term trends and potential buy/sell signals.
+3. Trading volume spikes often correlate with major price movements, indicating periods of high market activity.
+![alt text]((https://github.com/MJnizam/Portfolio-Project/blob/main/stock.png)(https://github.com/MJnizam/Portfolio-Project/blob/main/stock%202.png)(https://github.com/MJnizam/Portfolio-Project/blob/main/stock%203.png))
 
+### Future Enhancements
+**-** Incorporate machine learning for predictive analysis
+**-** Apply volatility analysis to measure risk levels
+**-** Compare multiple stock datasets for market trend analysis
 
 

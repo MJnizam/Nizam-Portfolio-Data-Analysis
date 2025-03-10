@@ -13,7 +13,7 @@ The dataset consists of two sheets:
 This dataset is ideal for practicing data visualization, trend analysis, and predictive analytics. Future improvements may include interactive dashboards and automated reports.
 ## [Salary Analysis using Python](https://github.com/MJnizam/Portfolio-Project/blob/main/Salary_Analysis.ipynb)
 ### Overview
-#### [sourse](https://github.com/MJnizam/Portfolio-Project/blob/main/Salary_dataset.csv)
+#### [source](https://github.com/MJnizam/Portfolio-Project/blob/main/Salary_dataset.csv)
 This project explores salary trends across different industries, job roles, and experience levels. It aims to identify key factors influencing salaries and provide insights for better career decision-making.
 ### Key Insights
 1. **Industry Trends:** Identifies high-paying industries.

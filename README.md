@@ -30,7 +30,9 @@ This dataset is useful for HR analytics, career planning, and salary benchmarkin
 1. The closing price trend showcases the overall market movement over time.
 2. The moving average analysis highlights long-term trends and potential buy/sell signals.
 3. Trading volume spikes often correlate with major price movements, indicating periods of high market activity.
-![alt text]((https://github.com/MJnizam/Portfolio-Project/blob/main/stock.png)(https://github.com/MJnizam/Portfolio-Project/blob/main/stock%202.png)(https://github.com/MJnizam/Portfolio-Project/blob/main/stock%203.png))
+![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock.png)
+![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock%202.png)
+![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock%203.png))
 
 ### Future Enhancements
 **-** Incorporate machine learning for predictive analysis

@@ -32,11 +32,11 @@ This dataset is useful for HR analytics, career planning, and salary benchmarkin
 3. Trading volume spikes often correlate with major price movements, indicating periods of high market activity.
 ![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock.png)
 ![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock%202.png)
-![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock%203.png))
+![alt text](https://github.com/MJnizam/Portfolio-Project/blob/main/stock%203.png)
 
 ### Future Enhancements
-**-** Incorporate machine learning for predictive analysis
-**-** Apply volatility analysis to measure risk levels
-**-** Compare multiple stock datasets for market trend analysis
+1. Incorporate machine learning for predictive analysis
+2. Apply volatility analysis to measure risk levels
+3. Compare multiple stock datasets for market trend analysis
 
 
